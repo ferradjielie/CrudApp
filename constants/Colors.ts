@@ -1,17 +1,14 @@
-
-
 export const Colors = {
   light: {
     text: 'black',
     background: 'white',
     icon: 'black',
-    button : "royalblue",
+    button: 'royalblue',
   },
   dark: {
-    text: 'black',
-    background: 'white',
+    text: 'white',
+    background: 'black',
     icon: 'red',
-    button : "white",
-    
+    button: 'white',
   },
 };
